@@ -16,7 +16,7 @@
 
 ## 🧬 Molecular Biology
 
-* [DNA Purification](molecular-biology/dna-purification/README.md)
+* [DNA Purification](molecular-biology/page-2.md)
   * [Genomic DNA](molecular-biology/dna-purification/genomic-dna.md)
   * [Miniprep](molecular-biology/dna-purification/miniprep.md)
   * [DNA Clean Up](molecular-biology/dna-purification/dna-clean-up.md)
@@ -42,7 +42,7 @@
 
 ## 👾 Microbiology
 
-* [Aseptic Techniques](microbiology/aseptic-techniques.md)
+* [Aseptic Techniques](microbiology/page-3.md)
 * [Culturing](microbiology/culturing/README.md)
   * [Inoculation](microbiology/culturing/inoculation.md)
   * [Isolation](microbiology/culturing/isolation.md)
@@ -53,9 +53,10 @@
 
 ## 🌱 Plant Biology
 
-* [Seed Surface Sterilisation](plant-biology/seed-surface-sterilisation.md)
+* [Seed Surface Sterilisation](plant-biology/page-4.md)
 * [Axenic Plants Preparation](plant-biology/axenic-plants-preparation.md)
 * [Plant Inoculation](plant-biology/plant-inoculation.md)
+* [Recovery of Bacteria from Plants](plant-biology/recovery-of-bacteria-from-plants.md)
 
 ***
 
