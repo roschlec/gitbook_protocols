@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Useful Resources](useful-resources.md)
+* [🔬 Welcome!](README.md)
+* [📚 Useful Resources](useful-resources.md)
 
 ## 🧑🔬 Lab Management and Maintenance
 
@@ -11,15 +11,52 @@
 * [Autoclave](lab-management-and-maintenance/autoclave.md)
 * [Micropipettes](lab-management-and-maintenance/micropipettes.md)
 * [Antibiotics](lab-management-and-maintenance/antibiotics.md)
+* [Glycerol Stocks](lab-management-and-maintenance/glycerol-stocks.md)
+* [Record Tracking](lab-management-and-maintenance/record-tracking.md)
 
 ## 🧬 Molecular Biology
 
-* [Page 2](molecular-biology/page-2.md)
+* [DNA Purification](molecular-biology/dna-purification/README.md)
+  * [Genomic DNA](molecular-biology/dna-purification/genomic-dna.md)
+  * [Miniprep](molecular-biology/dna-purification/miniprep.md)
+  * [DNA Clean Up](molecular-biology/dna-purification/dna-clean-up.md)
+  * [Gel Extraction](molecular-biology/dna-purification/gel-extraction.md)
+* [DNA Cloning](molecular-biology/dna-cloning/README.md)
+  * [Gibson Assembly](molecular-biology/dna-cloning/gibson-assembly.md)
+  * [Ligation](molecular-biology/dna-cloning/ligation.md)
+* [Restriction Digestion](molecular-biology/restriction-digestion.md)
+* [PCR](molecular-biology/pcr/README.md)
+  * [Three-step](molecular-biology/pcr/three-step.md)
+  * [Two-step](molecular-biology/pcr/two-step.md)
+  * [Touchdown](molecular-biology/pcr/touchdown.md)
+  * [Arbitrary](molecular-biology/pcr/arbitrary.md)
+* [Gel Electrophoresis](molecular-biology/gel-electrophoresis.md)
+* [DNA Sequencing](molecular-biology/dna-sequencing.md)
+* [Competent Cells](molecular-biology/competent-cells/README.md)
+  * [Chemically-competent](molecular-biology/competent-cells/chemically-competent.md)
+  * [Electrocompetent](molecular-biology/competent-cells/electrocompetent.md)
+* [Transformation](molecular-biology/transformation/README.md)
+  * [Heat Shock](molecular-biology/transformation/heat-shock.md)
+  * [Electroporation](molecular-biology/transformation/electroporation.md)
+  * [Screening](molecular-biology/transformation/screening.md)
 
 ## 👾 Microbiology
 
-* [Page 3](microbiology/page-3.md)
+* [Aseptic Techniques](microbiology/aseptic-techniques.md)
+* [Culturing](microbiology/culturing/README.md)
+  * [Inoculation](microbiology/culturing/inoculation.md)
+  * [Isolation](microbiology/culturing/isolation.md)
+  * [Plating Methods](microbiology/culturing/plating-methods.md)
+* [Dilution Plating](microbiology/dilution-plating.md)
+* [Conjugation](microbiology/conjugation.md)
+* [Competition Assays](microbiology/competition-assays.md)
 
 ## 🌱 Plant Biology
 
-* [Page 4](plant-biology/page-4.md)
+* [Seed Surface Sterilisation](plant-biology/seed-surface-sterilisation.md)
+* [Axenic Plants Preparation](plant-biology/axenic-plants-preparation.md)
+* [Plant Inoculation](plant-biology/plant-inoculation.md)
+
+***
+
+* [🙆 Acknowledgements](acknowledgements.md)
