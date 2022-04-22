@@ -3,7 +3,7 @@
 * [🔬 Welcome!](README.md)
 * [📚 Useful Resources](useful-resources.md)
 
-## 🧑🔬 Lab Management and Maintenance
+## 🧑🔬 🧑🔬 Lab Management and Maintenance
 
 * [Chemicals and Solutions](lab-management-and-maintenance/chemicals-and-solutions.md)
 * [Shelf Stocking](lab-management-and-maintenance/shelf-stocking.md)
