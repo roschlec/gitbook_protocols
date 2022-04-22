@@ -8,9 +8,9 @@
 * [Chemicals and Solutions](lab-management-and-maintenance/chemicals-and-solutions.md)
 * [Shelf Stocking](lab-management-and-maintenance/shelf-stocking.md)
 * [Preparing Sterile Supplies](lab-management-and-maintenance/preparing-sterile-supplies.md)
+* [Antibiotics](lab-management-and-maintenance/antibiotics.md)
 * [Autoclave](lab-management-and-maintenance/autoclave.md)
 * [Micropipettes](lab-management-and-maintenance/micropipettes.md)
-* [Antibiotics](lab-management-and-maintenance/antibiotics.md)
 * [Glycerol Stocks](lab-management-and-maintenance/glycerol-stocks.md)
 * [Record Tracking](lab-management-and-maintenance/record-tracking.md)
 
