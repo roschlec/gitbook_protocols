@@ -1,7 +1,7 @@
 ---
 description: >-
-  Protocols from the Microbiology Research Group (AG-Remus-Emsermann) at Freie
-  Universität Berlin
+  These are protocols I have compiled from the Microbiology Research Group
+  (AG-Remus-Emsermann) at Freie Universität Berlin
 coverY: 0
 ---
 

@@ -5,9 +5,7 @@
 
 ## 🧑🔬 Lab Management and Maintenance
 
-* [Chemicals and Solutions](lab-management-and-maintenance/chemicals-and-solutions.md)
 * [Shelf Stocking](lab-management-and-maintenance/shelf-stocking.md)
-* [Preparing Sterile Supplies](lab-management-and-maintenance/preparing-sterile-supplies.md)
 * [Antibiotics](lab-management-and-maintenance/antibiotics.md)
 * [Autoclave](lab-management-and-maintenance/autoclave.md)
 * [Micropipettes](lab-management-and-maintenance/micropipettes.md)
@@ -24,6 +22,7 @@
 * [DNA Cloning](molecular-biology/dna-cloning/README.md)
   * [Gibson Assembly](molecular-biology/dna-cloning/gibson-assembly.md)
   * [Ligation](molecular-biology/dna-cloning/ligation.md)
+  * [Golden Gate](molecular-biology/dna-cloning/golden-gate.md)
 * [Restriction Digestion](molecular-biology/restriction-digestion.md)
 * [PCR](molecular-biology/pcr/README.md)
   * [Three-step](molecular-biology/pcr/three-step.md)

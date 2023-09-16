@@ -12,7 +12,7 @@
 
 ## Working concentrations
 
-<table><thead><tr><th>Antibiotic</th><th>Abbr.</th><th data-type="number">Final Concentration (μg/ml)</th><th>Volume per 100 ml media</th></tr></thead><tbody><tr><td>Ampicillin</td><td>Amp (Ap)</td><td>100</td><td>100 μl</td></tr><tr><td>Chloramphenicol</td><td>Chl (Cm)</td><td>15</td><td>15 μl</td></tr><tr><td>Gentamicin</td><td>Gen (Gm)</td><td>15</td><td>15 μl</td></tr><tr><td>Kanamycin</td><td>Kan (Km)</td><td>50</td><td>50 μl</td></tr><tr><td>Tetracycline</td><td>Tet (Tc)</td><td>15</td><td>15 μl</td></tr><tr><td>Streptomycin</td><td>Str (St)</td><td>100</td><td>100 μl</td></tr><tr><td>Spectinomycin</td><td>Spt (Sp)</td><td>50</td><td>50 μl</td></tr><tr><td>Erythromycin</td><td>Ery (Em)</td><td>100</td><td>100 μl</td></tr><tr><td>Rifampicin</td><td>Rif (Rf)</td><td>50</td><td>50 μl</td></tr></tbody></table>
+<table><thead><tr><th>Antibiotic</th><th width="150">Abbr.</th><th data-type="number">Final Concentration (μg/ml)</th><th>Volume per 100 ml media</th></tr></thead><tbody><tr><td>Ampicillin</td><td>Amp (Ap)</td><td>100</td><td>100 μl</td></tr><tr><td>Chloramphenicol</td><td>Chl (Cm)</td><td>15</td><td>15 μl</td></tr><tr><td>Gentamicin</td><td>Gen (Gm)</td><td>15</td><td>15 μl</td></tr><tr><td>Kanamycin</td><td>Kan (Km)</td><td>50</td><td>50 μl</td></tr><tr><td>Tetracycline</td><td>Tet (Tc)</td><td>15</td><td>15 μl</td></tr><tr><td>Streptomycin</td><td>Str (St)</td><td>100</td><td>100 μl</td></tr><tr><td>Spectinomycin</td><td>Spt (Sp)</td><td>50</td><td>50 μl</td></tr><tr><td>Erythromycin</td><td>Ery (Em)</td><td>100</td><td>100 μl</td></tr><tr><td>Rifampicin</td><td>Rif (Rf)</td><td>50</td><td>50 μl</td></tr></tbody></table>
 
 **Notes**
 
